@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edson.bocalon@escola.pr.gov.br)
 
 ![Edson GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonbocalon&theme=blue-green)
-![Top Langes](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonbocalon&theme=blue-green)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonbocalon&layout=compact&langs_count=7&theme=blue-green">
                                                                                                                         
 ## Linguagens de programação que eu uso no meu dia-a-dia, bem como, outras que estou aprendendo a usá-las!
 

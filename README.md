@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Edson Jorge Bocalon!
 * 🔭 Trabalho com linguagem de programação na educação básica.
-* 📫 Meu email de contato: edson.bocalon@escola.pr.gov.br
+* 📫 Meu e-mail de contato: edson.bocalon@escola.pr.gov.br
 * 📫 Estou apreendendo e me aprofundando na linguagem de programação;
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bocalonedson)
@@ -9,7 +9,7 @@
 
 ![Edson GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonbocalon&theme=blue-green)
 ![Top Langes](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonbocalon&theme=blue-green)
-                                                                                                                                                    
+                                                                                                                        
 ## Tecnoligias que eu uso no meu dia, bem como algumas estou aprendendo a usá-las
 
 <div style="display: inline_block"><br/>
@@ -19,6 +19,8 @@
     <img align="center" alt=scracth" src="https://img.shields.io/badge/Scratch-FF4500?style=for-the-badge&logo=scratch&logoColor=white"/>
     <img align="center" alt=css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt=c" src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align="center" alt=python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt=python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
 Apaixonado por livros, educação e mergulhando na nova paixão que é o mundo das tecnologias.

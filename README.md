@@ -24,4 +24,4 @@
     <img align="center" alt=python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-Apaixonado por livros, educação e mergulhando na nova paixão que é o mundo das tecnologias.
+Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas.

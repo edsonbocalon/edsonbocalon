@@ -22,7 +22,7 @@
     <img align="center" alt=css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt=c" src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt=python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt=python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt=figma src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 
 Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas.

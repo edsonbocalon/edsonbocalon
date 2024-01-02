@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Edson Jorge Bocalon!
+#### Olá! Eu sou Edson Jorge Bocalon!
 * 💻 Trabalho com linguagem de programação na educação básica.
 * 📧 Meu e-mail de contato: edson.bocalon@escola.pr.gov.br
 * 📚 Estou apreendendo e me aprofundando na linguagem de programação;
@@ -13,7 +13,7 @@
 ![Edson GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonbocalon&theme=blue-green)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonbocalon&layout=compact&langs_count=7&theme=blue-green">
                                                                                                                         
-## Linguagens de programação que uso no dia-a-dia, além de outras, as quais estou aprendendo a usá-las!
+#### Linguagens de programação que uso no dia-a-dia, além de outras que estou aprendendo a usá-las!
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="htmal" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,4 +28,4 @@
   
 </div><br/>
 
-Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).
+#### Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).

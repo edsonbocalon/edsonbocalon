@@ -28,4 +28,4 @@
   
 </div><br/>
 
-Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas.
+Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).

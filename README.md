@@ -1,10 +1,10 @@
 
 #### Olá! Eu sou Edson Jorge Bocalon!
-* 💻 Trabalho com linguagem de programação na educação básica.
-* 📧 Meu e-mail de contato: edson.bocalon@escola.pr.gov.br
+* 💻 Trabalho com linguagem de programação na educação básica;
+* 📧 Meu e-mail de contato: edson.bocalon@escola.pr.gov.br;
 * 📚 Estou apreendendo e me aprofundando na linguagem de programação;
 * 👨‍💻 Estou estudando na [Alura](https://cursos.alura.com.br/edutech);
-* 🎓 Em aprendizado constante.
+* 🎓 Em aprendizado constante;
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bocalonedson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edson.bocalon@escola.pr.gov.br)

@@ -29,3 +29,5 @@
 </div><br/>
 
 #### Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).
+![snake gif](https://github.com/edsonbocalon/edsonbocalon/blob/output/github-contribution-grid-snake.gif)
+

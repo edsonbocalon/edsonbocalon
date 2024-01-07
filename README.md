@@ -9,6 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bocalonedson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edson.bocalon@escola.pr.gov.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-bocalon-122b0880/)
 
 ![Edson GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonbocalon&theme=blue-green)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonbocalon&layout=compact&langs_count=7&theme=blue-green">
@@ -28,5 +29,10 @@
   
 </div><br/>
 
-#### Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{edsonbocalon}/count.svg" /></p> 
+<br/>
+</div>
 
+#### Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).

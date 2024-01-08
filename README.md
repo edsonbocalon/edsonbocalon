@@ -29,10 +29,10 @@
   
 </div><br/>
 
+#### Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{edsonbocalon}/count.svg" /></p> 
 <br/>
 </div>
-
-#### Apaixonado por livros, educação e mergulhando de cabeça no mundo das linguagens tecnológicas (programação).

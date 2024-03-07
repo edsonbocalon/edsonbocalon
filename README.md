@@ -1,4 +1,3 @@
-
 #### Olá! Eu sou Edson Jorge Bocalon!
 * 💻 Trabalho com linguagem de programação na educação básica;
 * 📧 Meu e-mail de contato: edson.bocalon@escola.pr.gov.br;
